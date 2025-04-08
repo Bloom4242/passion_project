@@ -840,7 +840,7 @@
                         onClick: () => {
                             r(!0)
                         },
-                        className: "z-10 text-sm btn btn-link btn-compact ".concat(t),
+                        className: "z-10 text-sm  ".concat(t),
                         children: [(0, a.jsx)(l.Z, {
                             size: 18
                         }), ""]
@@ -883,7 +883,7 @@
             function n() {
                 return (0, a.jsx)("span", {
                     translate: "no",
-                    children: "sleepytime"
+                    children: "asd"
                 })
             }
         }
